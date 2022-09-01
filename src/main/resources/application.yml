@@ -1,0 +1,11 @@
+amazon:
+  access:
+    key: Tavares-at-719751449057
+    secret-key: unIaKpE+zKSX1j443vtgoQsP0hUHqFvcfaw8PvcKUS4=
+  region: us-east-1
+  end-point:
+    url: dynamodb.us-east-1.amazonaws.com
+    
+server: 
+  port: 9001
+ 
